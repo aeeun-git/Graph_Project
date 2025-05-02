@@ -77,7 +77,7 @@ Graph\_Project/
 
 ## 📄 학술대회 논문
 
-* "Spatial Temporal Graph Attention Network for Dynamic Relationship Prediction" 
+* "Spatial Temporal Graph Attention Network for Dynamic Relationship Prediction"     
   https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050137
 
 * "Graph Neural Networks in Scene Understanding"  
