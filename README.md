@@ -75,27 +75,19 @@ Graph\_Project/
 
 ---
 
-## 📚 참고 문헌
-
-* 김영진 외, “Spatial Temporal Graph Attention Network for Dynamic Relationship Prediction”, *KIPS Conference*, 2021.
-  [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050137](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050137)
-* 이수민 외, “Graph Neural Networks in Scene Understanding”, *DBpia*, 2022.
-  [https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050314](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050314)
-
----
-
 ## 📄 학술대회 논문
 
-* "ROS2 기반 TurtleBot3 로봇 제어 및 실습 프레임워크 설계"
-  [https://www.manuscriptlink.com/society/kips/conference/ack2024/file/downloadSoConfManuscript/abs/KIPS\_C2024B0256]
+* "Spatial Temporal Graph Attention Network for Dynamic Relationship Prediction" 
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050137
 
----
+* "Graph Neural Networks in Scene Understanding"  
+  https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050314
+
+---  
+
 
 ## 🏷️ 라이선스
 
 MIT © [aeeun-git](https://github.com/aeeun-git)
 
 ---
-
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050137
-https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12050314
